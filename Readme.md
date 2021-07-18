@@ -4,4 +4,4 @@ Implemeted and compared image classification and segmentation task on Brain MRI 
 
 Link to dataset used: https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
 
-- Developed by: [Nazish Khan](https://github.com/nazuk27)
+- Developed by: [Nazish Khan](https://www.linkedin.com/in/nazish-khan-1a1b79139/)
